@@ -212,6 +212,8 @@ Test.assertSimilar(splitTheBill({A: 40, B: 25, X: 10}), {A: 15, B: 0, X: -15});
   });
 });
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 // Task 7. Driving School - Every month, a random number of students take the driving test at Fast & Furious (F&F) Driving School. To pass the test, a student cannot accumulate more than 18 demerit points. At the end of the month, F&F wants to calculate the average demerit points accumulated by ONLY the students who have passed, rounded to the nearest integer. Write a function which would allow them to do so. If no students passed the test that month, return 'No pass scores registered.'.
 
 function passed (list) { 

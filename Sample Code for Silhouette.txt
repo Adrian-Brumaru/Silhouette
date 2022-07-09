@@ -1,6 +1,7 @@
 // Hello and thank you very much for your interest. This is a presentation of a few basic JavaScript problems that I tackled on Codewars in preparation for the Northcoders coding bootcamp entry challenge. Although very basic in the eyes of any developer I am sure, I hope they provide an insight into my humble abilities.
 // The individual bits of code below will each come with a description of the task they are intended to solve and a few test cases to go with each code for TDD purposes. The test cases are not written by me, they are written by the authors on Codewars that created the tasks to be solved (katas).
 // Every solution for the tasks (katas) below has been written solo by me.
+// https://www.codewars.com/users/Brumy
 
 // Task 1. Sum of differences in array - Sum the differences between consecutive pairs in an array in descending order.
 
